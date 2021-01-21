@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "I-Tsun Cheng (Raymond)"
+title                    : "Amanzhol Kuantay"
 title_separator          : "-"
-name                     : &name "I-Tsun Cheng"
+name                     : &name "Amanzhol Kuantay"
 description              : &description "personal description"
-url                      : https://itsuncheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://amanzh01.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "itsuncheng/itsuncheng.github.io"
+repository               : "amanzh01/amanzh01.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -59,7 +59,7 @@ yandex_site_verification :
 twitter:
   username               : &twitter
 facebook:
-  username               :
+  username               : "amanzh01"
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -73,49 +73,49 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :  "UA-123279707-2"
+    tracking_id          : 
 
 
 # Site Author
 author:
-  name             : "I-Tsun Cheng (Raymond)"
-  avatar           : "profile2.jpg"
-  bio              : "HKUST undergraduate student majoring in Computer Science, focusing on Natural Language Processing"
+  name             : "Amanzhol Kuantay"
+  avatar           : "profile.jpg"
+  bio              : "HKUST undergraduate student majoring in Mathematics"
   location         : "Hong Kong"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=09x-H2MAAAAJ"
-  email            : "ichengaa@connect.ust.hk"
-  researchgate     : #"https://www.researchgate.net/profile/I_Tsun_Cheng"
+  googlescholar    :
+  email            : "akuantay@connect.ust.hk"
+  researchgate     :
   uri              :
-  bitbucket        :
+  bitbucket        : "amanzh01"
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "amanzh01"
   foursquare       :
-  github           : "itsuncheng"
+  github           : "amanzh01"
   google_plus      :
   keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        : "amanzh01"
+  impactstory      :
   lastfm           :
-  linkedin         : "i-tsun-raymond-cheng-082759100"
-  orcid            : # "http://orcid.org/yourorcidurl"
+  linkedin         : "amanzhol-kuantay-53723b170"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "itsuncheng"
+  twitter          : "amanzh01"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "amanzh01"
   wikipedia        :
-  medium           : "itsuncheng"
+  medium           : "amanzh01"
 
 
 # Reading Files
